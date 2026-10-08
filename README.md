@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/samilagarrido">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samilagarrido&count_private=true&show_icons=true&theme=algolia"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samilagarrido&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samilagarrido&count_private=true&show_icons=true&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samilagarrido&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </div>
 
