@@ -9,13 +9,6 @@
 - 🏆 MGITECH Purpose Award (2024)
 - 💡 Interests: Data Engineering, Data Architecture, ETL/ELT, Lakehouse, Cloud Data, MLOps and Applied AI
 
-<div>
-  <a href="https://github.com/samilagarrido">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samilagarrido&count_private=true&show_icons=true&theme=algolia"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samilagarrido&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-</div>
-
 ### 🧰 Tech stack
 
 <div>
